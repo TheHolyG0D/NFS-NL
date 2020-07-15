@@ -7,7 +7,7 @@ Here I will store the various versions of graphics settings for No Limits
 
 
 
-Installation: Download the latest version(= to the version installed on your device) and copy to Android/Data/com.ea.game.nfs14_row/files/var
+Installation: Download the latest version (=to the version installed on your device) from releases tab and copy the downloaded file to Android/Data/com.ea.game.nfs14_row/files/var
 
 
 
